@@ -11,49 +11,36 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Tech. in Electrical Engineering (Honors), IIT Hyderabad, 2016
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Yahoo Japan, Oct 2016 - Nov 2020: Software Engineer
+  * Implemented ML system for detection of multiple categories like location, sports, etc. in an article.
+  * Implemented ML system for Entity Detection and Disambiguation in an article.
+  * Maintainer and Project Manager of backend system which process 100+ GB of data and serves it to knowledge pannel.
+    * knowledge panel: similar to [google's knowledge panel](https://support.google.com/knowledgepanel/answer/9163198?hl=en)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Uurmi System, May 2015 - July 2015: Research Intern
+  * Responsible for implementing and comparing bit error rate of different decoding algorithms for Multiple Input Multiple Output noisy channel.
+  * Experimented with Sphere Decoding, Fast Sphere Decoding Algorithms.
+  * Supervisor: Dr. Nanda Kishore Chaval
   
-Skills
+Technical Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Languages:
+  * Java, Python, Scala
+* ML Tools:
+  * sklearn, pytorch, tensorflow
+* Web development:
+  * Spring-boot, Flask
+* DevTools:
+  * Linux, Git, Docker, Hive, Airflow
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Head Coordinator of Robotic Club 2014-2015, IIT Hyderabad
+
+Languages
+======
+* English, Hindi, Japanese
