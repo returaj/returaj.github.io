@@ -1,7 +1,7 @@
 ---
 title: 'Multi-Agents Collaboration Motivation '
 date: 2021-5-14
-permalink: /posts/multiagent/collaboration
+permalink: /posts/2021/05/post1
 tags:
   - rl
   - multi agents
