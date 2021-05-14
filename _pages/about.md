@@ -12,4 +12,5 @@ Previously I was working as a Software Engineer at Yahoo! Japan, Tokyo. At Yahoo
 
 Currently I am focusing on how multi-agents can collaborate to complete a task. 
 
-If you are also interested in multi-agents collaboration, I would be really happy to work with you!!
+If you are also interested in reinforcement learning or multi-agents collaboration, I would be really happy to work with you!!
+
