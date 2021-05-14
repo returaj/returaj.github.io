@@ -8,5 +8,5 @@ tags:
   - motivation
 ---
 
-I blog decribes, how and why I am interested in the topic of multi agent collaboration especially through communication.
+This blog decribes, how and why I am interested in the topic of multi agent collaboration especially through communication.
 
