@@ -14,7 +14,7 @@ redirect_from:
 **Learning from Observation: A Survey of Recent Advances**  
 **Returaj Burnwal**, Hriday Mehta, Nirav Pravinbhai Bhatt, Balaraman Ravindran  
 *Under review*.  
-[PDF](https://arxiv.org/abs/2509.19379) &nbsp;
+[Paper](https://arxiv.org/abs/2509.19379) &nbsp;
 
 ## Conferences
 
