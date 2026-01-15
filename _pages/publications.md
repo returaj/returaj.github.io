@@ -11,20 +11,24 @@ redirect_from:
 
 ## Preprints
 
-**A Primal-Dual Algorithm for Faster Distributionally Robust Optimization**  
-**Ronak Mehta**, Jelena Diakonikolas, Zaid Harchaoui  
+**Learning from Observation: A Survey of Recent Advances**  
+**Returaj Burnwal**, Hriday Mehta, Nirav Pravinbhai Bhatt, Balaraman Ravindran  
 *Under review*.  
-[PDF](https://arxiv.org/abs/2403.10763) &nbsp;
+[PDF](https://arxiv.org/abs/2509.19379) &nbsp;
 
 ## Conferences
 
-**A Generalization Theory for Zero-Shot Prediction**  
-**Ronak Mehta**, Zaid Harchaoui  
-*ICML, 2025 (**Oral: top 1% of submissions**)*.  
-[Paper](https://openreview.net/forum?id=kJQgMGLrow&) &nbsp; [Code](https://github.com/ronakdm/zeroshot) &nbsp;  [Poster](/files/zeroshot-poster-icml.pdf) &nbsp;  
+**OSIL: Learning Offline Safe Imitation Policies with Safety Inferred from Non-preferred Trajectories**  
+**Returaj Burnwal**, Nirav Pravinbhai Bhatt, Balaraman Ravindran  
+*AAMAS, 2026*.  
+[Paper](https://openreview.net/forum?id=x2amyL6kNN&) &nbsp;  
 
-**Min-Max Optimization with Dual-Linear Coupling**  
-**Ronak Mehta**, Jelena Diakonikolas, Zaid Harchaoui  
-*Under Review*.  
-[Paper](https://arxiv.org/pdf/2507.06328) &nbsp; 
+**SafeMIL: Learning Offline Safe Imitation Policy from Non-Preferred Trajectories**  
+**Returaj Burnwal**, Nirav Pravinbhai Bhatt, Balaraman Ravindran  
+*AAAI 2026*.  
+[Paper](https://arxiv.org/pdf/2511.08136) &nbsp;  
 
+**GAN-MPC: Training Model Predictive Controllers with Parameterized Cost Functions using Demonstrations from Non-identical Experts**  
+**Returaj Burnwal**, Anirban Santara, Nirav P Bhatt, Balaraman Ravindran, Gaurav Aggarwal  
+*RSS Workshop 2023 (**Spotlight**)*.  
+[Paper](https://arxiv.org/pdf/2305.19111) &nbsp;  
